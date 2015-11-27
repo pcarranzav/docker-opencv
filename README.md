@@ -17,10 +17,10 @@ and you are ready to go!
 
 you can also pull the docker image from [index.docker.io](http://index.docker.io)
 
-https://index.docker.io/u/chilijung/docker-opencv/
+https://hub.docker.io/u/pcarranzav/opencv/
 
 ```
-sudo docker pull chilijung/docker-opencv
+sudo docker pull pcarranzav/opencv
 ```
 
 and your docker is set!
